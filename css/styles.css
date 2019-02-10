@@ -1,3 +1,10 @@
-body{
-    background
+img{
+    float: right;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    font-style: italic;
+    font-size: 50px;
 }
