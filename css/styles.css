@@ -19,6 +19,9 @@ h1{
     float: left;
   
   }
+.untracked {
+    float: left;
+}
 .column{
     float: right;
 }
