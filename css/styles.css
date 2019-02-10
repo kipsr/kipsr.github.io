@@ -14,3 +14,8 @@ h1{
 .unimportant{
     color: blue;
 }
+.important {
+    width: 30%;
+    float: right;
+    background-color: yellow;
+  }
