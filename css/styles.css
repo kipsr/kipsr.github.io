@@ -20,5 +20,8 @@ h1{
   
   }
 .column{
-    float: left;
+    float: right;
+}
+.test-box{
+    border:2px solid red;
 }
