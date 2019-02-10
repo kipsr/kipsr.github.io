@@ -9,10 +9,10 @@ h1{
     font-size: 50px;
 }
 .important{
-    color: red;
+    color:green;
 }
 .unimportant{
-    color: blue;
+    color:brown;
 }
 .important {
     width: 25%;
