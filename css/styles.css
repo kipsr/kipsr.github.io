@@ -17,5 +17,8 @@ h1{
 .important {
     width: 25%;
     float: left;
-    background-color:green;
+  
   }
+.column{
+    float: left;
+}
