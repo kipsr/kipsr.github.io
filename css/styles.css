@@ -8,3 +8,9 @@ h1{
     font-style: italic;
     font-size: 50px;
 }
+.important{
+    color: red;
+}
+.unimportant{
+    color: blue;
+}
