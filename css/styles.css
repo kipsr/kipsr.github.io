@@ -19,9 +19,7 @@ h1{
     float: left;
   
   }
-.untracked {
-    float: left;
-}
+
 .column{
     float: right;
 }
@@ -38,4 +36,8 @@ h1{
     body {
       background-color: yellowgreen;
     }
+  }
+  .myphoto{
+      height: 300px;
+      width: 500px;
   }
