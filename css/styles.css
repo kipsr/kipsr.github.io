@@ -20,9 +20,7 @@ h1{
 
 
 }
-.test-box{
-    border:2px solid red;
-}
+
 @media screen and (min-width: 480px) {
     body {
         background-color: black;
@@ -31,7 +29,7 @@ h1{
 }
 @media screen and (min-width: 768px) {
     body {
-      background-color: yellowgreen;
+      background-color: #48C9B0  ;
     }
   }
   .myphoto{
