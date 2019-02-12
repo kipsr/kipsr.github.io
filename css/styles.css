@@ -1,18 +1,16 @@
-img{
-    float: right;
-    
-}
+ 
+
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: brown;
     font-style: italic;
-    font-size: 30px;
+    font-size: 35px;
 }
 .important{
-    color:red;
+    color:blue;
 }
 .unimportant{
-    color:brown;
+    color:blue;
 }
 .important {
     width: 25%;
@@ -20,8 +18,7 @@ h1{
   
   }
 
-.column{
-    float: right;
+
 }
 .test-box{
     border:2px solid red;
@@ -39,6 +36,7 @@ h1{
   }
   .myphoto{
       height: 300px;
-      width: 500px;
-      border-radius: 100px;
+      width: 200px;
+      border-radius: 100%;
+      float: left;
   }
