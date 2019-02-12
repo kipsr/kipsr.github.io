@@ -8,6 +8,7 @@ h1{
 }
 .important{
     color:blue;
+    float: right;
 }
 .unimportant{
     color:blue;
